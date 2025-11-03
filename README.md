@@ -3,4 +3,6 @@
 
 Welcome to Lulu's...You've been captured by Cthulu's curse and forced to cook for him at his creepy restaurant in the ocean, Lulu's. It's a challenge to keep yourself sane while you satisfy the customer's orders, all the while making sure to poison some of them based on Cthulhu's requirements. Have fun...
 
+My Role: Producer (Art and Music Direction), lead programmer
+
 Credits: Jason Chen, Ana (Yun Han) Jiang, Britney Yang, Mia Liu, Pierre (Yi Zhi) Chen
